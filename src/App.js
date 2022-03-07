@@ -64,7 +64,7 @@ class App extends Component {
       <div>
         <nav className="navbar navbar-expand sticky-top navbar-dark bg-primary">
           <Link to={"/"} className="navbar-brand">
-            Nany
+            VoloApp
           </Link>
           <div className="navbar-nav mr-auto">
             <li className="nav-item">
